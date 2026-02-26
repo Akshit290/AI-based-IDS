@@ -1,0 +1,12 @@
+2026-02-26 11:55:34,930 - training - INFO - Loading data from data/network_traffic.csv
+2026-02-26 11:55:34,960 - training - INFO - Data prepared: train (8000, 21), test (2000, 21)
+2026-02-26 11:55:34,960 - training - INFO - Training Random Forest Model...
+2026-02-26 11:55:35,438 - training - INFO - Model saved to models/random_forest_20260226_115535.pkl
+2026-02-26 11:55:35,438 - training - INFO - Training completed for random_forest
+2026-02-26 11:55:35,438 - training - INFO - Metrics: {'accuracy': 0.926, 'precision': 0.9308110700340001, 'recall': 0.926, 'f1': 0.9200120453733698, 'confusion_matrix': [[1583, 4], [144, 269]]}
+2026-02-26 15:15:51,226 - training - INFO - Loading data from data/network_traffic.csv
+2026-02-26 15:15:51,241 - training - INFO - Data prepared: train (8000, 21), test (2000, 21)
+2026-02-26 15:15:51,241 - training - INFO - Training Random Forest Model...
+2026-02-26 15:15:51,438 - training - INFO - Model saved to models/random_forest_20260226_151551.pkl
+2026-02-26 15:15:51,438 - training - INFO - Training completed for random_forest
+2026-02-26 15:15:51,438 - training - INFO - Metrics: {'accuracy': 0.9805, 'precision': 0.9803945027677631, 'recall': 0.9805, 'f1': 0.9804020783773633, 'confusion_matrix': [[1573, 14], [25, 388]]}
